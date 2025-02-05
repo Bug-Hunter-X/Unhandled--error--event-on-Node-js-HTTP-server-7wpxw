@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js HTTP servers: the lack of proper error handling. The initial `bug.js` file showcases a server that doesn't handle potential errors during the listening process. The solution, `bugSolution.js`, demonstrates how to correctly handle such errors to prevent unexpected server crashes and provide more robust error reporting.
